@@ -1,31 +1,31 @@
-Given the nature of correspondence play, the defender is unable to choose losses
-in a battle, so the following rules are used to choose losses for the defender.
-The attacker may choose their losses as usual.
+The order of losses for the defender is as follows:
 
-Order of losses on land:
-AA Gun
+Land units:
+AA gun
 Infantry
 Artillery
 Armour
 Bomber
 Fighter
 
-Order of losses at sea:
+Sea units:
 Undamaged battleship
 Submarine
 Destroyer
 Cruiser
-Unnecessary carrier¹
+Unnecessary carrier (a carrier is unnecessary if all fighters could still land without it)
 Fighter
-Carrier
 Damaged battleship
 
-Defending submarines submerge if and only if there are no other defending ships
-(including transports).
+Allied units of the same type:
+American
+British
+Russian
 
-The attacker chooses the nationality of lost units in cases where multiple
-nations have defending units of the type to be lost.
+Axis units of the same type:
+German
+Japanese
 
-¹A carrier is unnecessary if the number of friendly carriers remaining in the
-zone after its destruction is at least half the number of friendly fighters in
-the zone.
+Exception: when choosing between two carriers of different nationalities, choose the one that minimizes the number of fighters that will have to land on carriers not of their nationality.
+
+Defending submarines submerge if and only if there are no other defending ships (including transports).
